@@ -54,12 +54,12 @@ Working on various client-side projects for CRMP, focusing on functionality, sta
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=37C268&icon_color=37C268&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=37C268" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MinistrDresdena&show_icons=true&theme=github_dark&hide_border=true&title_color=37C268&icon_color=37C268&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinistrDresdena&layout=compact&theme=github_dark&hide_border=true&title_color=37C268" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&ring=37C268&fire=37C268&currStreakLabel=37C268" />
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=MinistrDresdena&theme=dark&hide_border=true&ring=37C268&fire=37C268&currStreakLabel=37C268" />
 </p>
 
 ### 📫 Contact
